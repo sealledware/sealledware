@@ -1,18 +1,11 @@
 ## hello
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/toaster.png" width="100%"/>
-  <br/><br/>
   <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/thelogo.png" width="110px"/>
+  
   <br/><br/>
   
-  # sealledware
-  
-  > *i am a luau / roblox dev, i do exploits and other stuff when bored*
-  
-  <br/>
-  
-  [![website](https://img.shields.io/badge/website-thesaboteur.me-0d0d0d?style=for-the-badge)](https://thesaboteur.me)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=160&section=header&text=sealledware&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=building%20things%20in%20the%20dark&descAlignY=55&descSize=16&descColor=aaaaaa" width="100%"/>
 </div>
 
 ---
