@@ -10,15 +10,15 @@
 <tr>
 <td width="260" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/sealledware/sealledware/main/sea%20bunny.jpg" width="220" style="border-radius:12px"/>
+<img src="https://raw.githubusercontent.com/sealledware/sealledware/main/sea%20bunny.jpg" width="210"/>
 
 <br><br>
 
-[![Roblox](https://img.shields.io/badge/Roblox-southwkorea-red?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/users/search?keyword=southwkorea)
+[![Roblox](https://img.shields.io/badge/Roblox-southwkorea-e00?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/users/search?keyword=southwkorea)
 [![Discord](https://img.shields.io/badge/Discord-3vil17-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
 </td>
-<td valign="top" style="padding-left:24px">
+<td valign="top" padding="16">
 
 ### hey, i'm southwkorea
 
@@ -29,7 +29,7 @@ contributed to games that crossed **50 million visits**, worked across roleplay,
 <br>
 
 **currently**
-> 🔧 Contractor @ TRCU *(The Revolutionary Computer Union)*
+> 🔧 Contractor @ **TRCU** — *Korkuta Guard Corps Bootcamp*
 
 <br>
 
@@ -44,6 +44,11 @@ contributed to games that crossed **50 million visits**, worked across roleplay,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </td>
+<td width="240" align="center" valign="middle">
+
+![TRCU](https://raw.githubusercontent.com/sealledware/sealledware/main/float.svg)
+
+</td>
 </tr>
 </table>
 
@@ -53,12 +58,47 @@ contributed to games that crossed **50 million visits**, worked across roleplay,
 
 <br>
 
+### 📁 projects
+
+> *replace `REPO_1`, `REPO_2` etc. with your actual repo names*
+
+<br>
+
 <div align="center">
+<table>
+<tr>
+<td align="center" width="280">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sealledware&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealledware&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150"/>
+**[REPO_1](https://github.com/sealledware/REPO_1)**
 
+![](https://img.shields.io/github/last-commit/sealledware/REPO_1?style=flat-square&color=58a6ff&labelColor=0d1117)
+![](https://img.shields.io/github/stars/sealledware/REPO_1?style=flat-square&color=58a6ff&labelColor=0d1117)
+
+short description of what this is
+
+</td>
+<td align="center" width="280">
+
+**[REPO_2](https://github.com/sealledware/REPO_2)**
+
+![](https://img.shields.io/github/last-commit/sealledware/REPO_2?style=flat-square&color=58a6ff&labelColor=0d1117)
+![](https://img.shields.io/github/stars/sealledware/REPO_2?style=flat-square&color=58a6ff&labelColor=0d1117)
+
+short description of what this is
+
+</td>
+<td align="center" width="280">
+
+**[REPO_3](https://github.com/sealledware/REPO_3)**
+
+![](https://img.shields.io/github/last-commit/sealledware/REPO_3?style=flat-square&color=58a6ff&labelColor=0d1117)
+![](https://img.shields.io/github/stars/sealledware/REPO_3?style=flat-square&color=58a6ff&labelColor=0d1117)
+
+short description of what this is
+
+</td>
+</tr>
+</table>
 </div>
 
 <br>
@@ -67,12 +107,12 @@ contributed to games that crossed **50 million visits**, worked across roleplay,
 
 <br>
 
-<div align="center">
+### 📬 contact
 
-[![GitHub followers](https://img.shields.io/github/followers/sealledware?label=followers&style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sealledware?tab=followers)
-&nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/sealledware?label=total%20stars&style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sealledware)
-&nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=sealledware&style=flat-square&color=58a6ff&label=profile+views)
+| platform | link |
+|---|---|
+| 💬 Discord (personal) | `3vil17` |
+| 🎮 Roblox | [southwkorea](https://www.roblox.com/users/search?keyword=southwkorea) |
+| 🖥️ TRCU Discord server | [discord.gg/computerunion](https://discord.gg/computerunion) |
 
-</div>
+<br>
