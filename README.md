@@ -15,15 +15,15 @@
 </td>
 <td valign="top">
 
-developer focused on Roblox and Discord tooling. i build game systems, write clean scripts, and sometimes end up doing everything from scratch because someone else's solution doesn't fit.
+hi guys im a dev who makes stuff on Roblox and Discord. I script games, build games and do general stuff uhh yeaaa I also do discord bot and its kinda cool too, I often remake everything because I don't like it. You  can find my projects/archives here on github since I am using it to post roblox exploits and store old versions of my games.
 
-contributed to games that crossed **50 million visits** across roleplay, military, and simulation genres.
+I have contributed to over **55 million visits** in roblox community, you may know me for: TRCU, Squid Game Infinity Roleplay or may not know me at all I dunno
 
 <br>
 
-**currently**
-- Contractor for TRCU <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/newlogo.png" height="18" style="vertical-align:middle"/>
-  - Contracting on *Korkuta Guard Corps Bootcamp* <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/ov1MNX_SHINE_TUFF.png" height="18" style="vertical-align:middle"/>
+**I am currently**
+- Contractor for TRCU yay!!!! <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/newlogo.png" height="18" style="vertical-align:middle"/>
+  - aaand working on *Korkuta Guard Corps Bootcamp* <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/ov1MNX_SHINE_TUFF.png" height="18" style="vertical-align:middle"/> ordered by **LoathsomeBreadEater**
 
 <br>
 
@@ -45,44 +45,32 @@ contributed to games that crossed **50 million visits** across roleplay, militar
 
 ### 📁 projects
 
-> *replace `REPO_1`, `REPO_2`, `REPO_3` with your actual repo names*
+> *bla bla bla stuff will be here later*
 
 <table>
 <tr>
 <td width="280">
 
-**[REPO_1](https://github.com/sealledware/REPO_1)**<br>
-<sub>short description</sub><br>
+**[some repository](https://github.com/sealledware/REPO_1)**<br>
+<sub>test1</sub><br>
 ![](https://img.shields.io/github/last-commit/sealledware/REPO_1?style=flat-square&color=58a6ff&labelColor=0d1117)
 
 </td>
 <td width="280">
 
-**[REPO_2](https://github.com/sealledware/REPO_2)**<br>
-<sub>short description</sub><br>
+**[some repository](https://github.com/sealledware/REPO_2)**<br>
+<sub>test2</sub><br>
 ![](https://img.shields.io/github/last-commit/sealledware/REPO_2?style=flat-square&color=58a6ff&labelColor=0d1117)
 
 </td>
 <td width="280">
 
-**[REPO_3](https://github.com/sealledware/REPO_3)**<br>
-<sub>short description</sub><br>
-![](https://img.shields.io/github/last-commit/sealledware/REPO_3?style=flat-square&color=58a6ff&labelColor=0d1117)
+| | |
+|---|---|
+| my discord | [southwkorea](https://discord.com/users/1263124428774965349) |
+| TRCU server | [discord.gg/computerunion](https://discord.gg/computerunion) |
 
 </td>
 </tr>
 </table>
-
-<br>
-
----
-
-### 📬 contact
-
-| | |
-|---|---|
-| Discord | `3vil17` |
-| Roblox | [southwkorea](https://www.roblox.com/users/search?keyword=southwkorea) |
-| TRCU server | [discord.gg/computerunion](https://discord.gg/computerunion) |
-
 <br>
