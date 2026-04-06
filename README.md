@@ -1,6 +1,8 @@
 <div align="center">
 
-![southwkorea](https://raw.githubusercontent.com/sealledware/sealledware/main/Cool%20Text%20-%20southws%20github%20505509001661706.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/Cool%20Text%20-%20southws%20github%20505509001661706.png" width="400"/>
+</div>
 
 </div>
 
