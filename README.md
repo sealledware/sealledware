@@ -25,7 +25,7 @@ I have contributed to over **55 million visits** in roblox community, you may kn
 
 **I am currently**
 - Contractor for TRCU yay!!!! <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/newlogo.png" height="18" style="vertical-align:middle"/>
-  - aaand working on *Korkuta Guard Corps Bootcamp* <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/ov1MNX_SHINE_TUFF.png" height="18" style="vertical-align:middle"/> ordered by **LoathsomeBreadEater**
+  - aaand working on *Korkuta Guard Corps Bootcamp* ordered by **LoathsomeBreadEater** <img src="https://raw.githubusercontent.com/sealledware/sealledware/main/ov1MNX_SHINE_TUFF.png" height="18" style="vertical-align:middle"/>
 
 <br>
 
